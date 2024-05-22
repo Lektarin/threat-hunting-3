@@ -60,9 +60,6 @@ Cloud.
 
 5\. Описание состава и формата входных данных
 
-Формат данных SCHEMA=( timestamp TIMESTAMP NOT NULL, src STRING, dst
-STRING, port INT32, bytes INT32 )
-
 ![](img/3.png)
 
 Если настройка выполнена правильно, то получится выполнить аналитический
