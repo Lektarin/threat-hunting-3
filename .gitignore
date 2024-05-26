@@ -2,5 +2,7 @@
 .Rhistory
 .RData
 .Ruserdata
+.pqt
 
+lab3/data/
 /.quarto/
